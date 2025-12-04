@@ -10,7 +10,7 @@ This system revolutionizes the traditional RFP process by integrating AI at ever
 
 - **AI-Powered RFP Creation**: Describe your requirements in plain English, and the system generates structured RFP documents
 - **Automated Vendor Communication**: Send RFPs to multiple vendors via email with one click
-- **Smart Proposal Parsing**: Automatically extract and structure data from vendor responses (including PDFs and images via OCR). The vendor should reply in the same email from where they received the proposal, **or they can send a direct message with a subject line that starts with `RFP: [refd id]`, such as `RFP: 69318741bt57e0cbf6804a20`**.
+- **Smart Proposal Parsing**: Automatically extract and structure data from vendor responses texts as well as (including PDFs and images via OCR). make sure PDF will not corrputed. The vendor should reply in the same email from where they received the proposal, **or they can send a direct message with a subject line that starts with `RFP: [refd id]`, such as `RFP: 69318741bt57e0cbf6804a20`**.
 
 Does this capture your full requirement?
 - **Intelligent Comparison**: Compare proposals side-by-side with AI-generated recommendations based on price, compliance, and completeness
